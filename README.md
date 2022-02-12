@@ -19,7 +19,7 @@ COMING SOON
 
 ## Links
 
-[Deployed application on Heroku](https://#.herokuapp.com/) NOT AVAILABLE YET
+[Deployed application on Heroku](https://texty-mctextface.herokuapp.com/)
 
 ## Installation Instructions
 
@@ -62,7 +62,7 @@ $ localhost:3000
 
 ## Usage
 
-COMING SOON
+This is a very basic PWA text editor. It's intended to be used as such.
 
 ## Technologies Used
 
@@ -86,4 +86,4 @@ If you have further questions, you can reach me at lauracole1900@comcast.net. Fo
 
 ## Badges
 
-[![License badge](https://img.shields.io/badge/license-MIT-031105)](./LICENSE) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/pwa-text-editor)
+[![License badge](https://img.shields.io/badge/license-MIT-31A9E1)](./LICENSE) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/pwa-text-editor)

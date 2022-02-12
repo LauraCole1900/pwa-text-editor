@@ -22,7 +22,6 @@ export const putDb = async (content) => {
   console.log('Content saved', result);
 }
 
-
 // Gets all content from database
 export const getDb = async () => {
   const jateDb = await openDB('jate', 1);
