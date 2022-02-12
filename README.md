@@ -15,7 +15,7 @@
 
 ## Description
 
-COMING SOON
+This is a simple browser-based text editor with PWA functionality. If you want to install it on your device, click the "Install" button. You can use this editor whether or not you're connected to the internet!
 
 ## Links
 
